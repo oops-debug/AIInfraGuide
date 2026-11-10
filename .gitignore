@@ -8,3 +8,5 @@ dist/
 public/pagefind/
 image-cards/
 docs/interview/面试宝典
+# WorkBuddy 本地工作记忆（不提交）
+.workbuddy/
