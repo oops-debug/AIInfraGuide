@@ -10,3 +10,21 @@ image-cards/
 docs/interview/面试宝典
 # WorkBuddy 本地工作记忆（不提交）
 .workbuddy/
+
+# CUDA 实验编译产物
+*.exe
+*.o
+*.obj
+*.cu.o
+experiments/dotProduct
+experiments/dotProduct_timing
+experiments/coalesce_bench
+experiments/tile_bench
+experiments/vectorAdd
+experiments/vector_add
+experiments/hello_cuda
+experiments/device_info
+experiments/coalescing
+experiments/bank_conflict
+experiments/matmul_benchmark
+experiments/register_spill
