@@ -32,3 +32,4 @@ experiments/saxpy
 experiments/vectorAddStreams
 experiments/vectorAddStride
 experiments/warp_ops
+experiments/warp_perf
