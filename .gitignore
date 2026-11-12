@@ -28,3 +28,7 @@ experiments/coalescing
 experiments/bank_conflict
 experiments/matmul_benchmark
 experiments/register_spill
+experiments/saxpy
+experiments/vectorAddStreams
+experiments/vectorAddStride
+experiments/warp_ops
